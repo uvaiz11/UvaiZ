@@ -1,1 +1,1 @@
-Created a new text file
+Edited the text from git
